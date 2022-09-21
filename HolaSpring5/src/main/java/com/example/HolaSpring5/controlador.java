@@ -19,7 +19,7 @@ public class controlador {
                 "<body>\n" +
                 "\n" +
                 "<script>\n" +
-                "  document.write('Hola Mundo');\n" +
+                "  document.write('Hola Grupo mintic2022');\n" +
                 "</script>\n" +
                 "\n" +
                 "</body>\n" +
